@@ -32,5 +32,5 @@ python manage.py runserver
 ```
 * urls to save date, time and message 
 ```
-url: http://127.0.0.1:8000/api/reminder-save/
+http://127.0.0.1:8000/api/reminder-save/
 ```
